@@ -4,7 +4,7 @@
 ## 🖼️ Visão Geral do Projeto
 Este projeto consiste em um painel interativo de Business Intelligence desenvolvido para analisar a base de dados de uma **empresa do setor de Telecomunicações** (ramo de telefonia). O objetivo principal é monitorar o perfil dos consumidores, o risco de crédito concedido em planos/aparelhos e a distribuição de renda em território nacional.
 
-![Dashboard Preview](dashboard_print.png)
+![Dashboard Preview](dashboard.png)
 *(Visão geral do painel com tema escuro, focado em legibilidade e contraste)*
 
 ---
