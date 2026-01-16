@@ -1,8 +1,5 @@
 # 📊 Dashboard de Análise de Crédito e Perfil de Clientes (Telecom)
 
-![Power BI](https://img.shields.io/badge/Power_BI-Desktop-yellow?style=for-the-badge&logo=power-bi)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
-
 
 ## 🖼️ Visão Geral do Projeto
 Este projeto consiste em um painel interativo de Business Intelligence desenvolvido para analisar a base de dados de uma **empresa do setor de Telecomunicações** (ramo de telefonia). O objetivo principal é monitorar o perfil dos consumidores, o risco de crédito concedido em planos/aparelhos e a distribuição de renda em território nacional.
